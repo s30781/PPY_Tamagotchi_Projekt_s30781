@@ -1,0 +1,9 @@
+[project]
+name = "projekt1s30781"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame>=2.6.1",
+    "sphinx>=8.2.3",
+]
